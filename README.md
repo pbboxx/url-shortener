@@ -44,9 +44,11 @@ python test_app.py
 ```
 
 
-## License
+## Todo
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Create analytics 
+create dashboard
+
 
 
 
